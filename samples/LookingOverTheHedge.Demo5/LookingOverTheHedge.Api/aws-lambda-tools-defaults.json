@@ -1,0 +1,8 @@
+
+{
+    "region" : "eu-west-1",
+    "profile" : "default",
+    "s3-bucket" : "looking-over-the-hedge",
+    "template"  : "serverless.template",
+    "stack-name" : "looking-over-the-hedge"
+}
